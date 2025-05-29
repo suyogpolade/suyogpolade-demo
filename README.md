@@ -1,4 +1,3 @@
 # suyogpolade-demo
 This is my First repository
-<br>
-Auther- suyog (Qspiders)
+Auther- Suyog Polade
